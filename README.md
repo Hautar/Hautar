@@ -7,7 +7,7 @@
 - While graduating I've finished "C# Programming for Unity Game Development Specialization" on Coursera building game prototypes and programming homework projects. (https://www.coursera.org/specializations/programming-unity-game-development)
 - In the last studying year I also managed to create my own game "Kolobok RJ" part of which you can play for free here.
 - I implemented all in game systems, such as managing save data, ads, in game purchases, whole gameplay system, animations, scene transitions, etc. 
-- Because the game represents my Unity3D knowledge and I gained a lot of experience making it I think it deserves the first plays in my portfolio.
+- Because the game represents my Unity3D knowledge and I gained a lot of experience making it I think it deserves the first place in my portfolio and your attention.
 - So, I hope you will be satisfied with my knowledge and offer me Junior/Middle Unity3D developer job interview in your company.
 
 - 📫 Contact me:
