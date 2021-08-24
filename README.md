@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hautar
 - 👀 I’m interested in C# programming and Unity Game Development, Plasma Physics, Plasma Medicine, games and more.
 - 🌱 I’m currently learning Unity3D and C# for game development
-- 💞️ Currently, I am looking for a Junior Unity position.
+- 💞️ Looking for a Junior Unity position.
 
 - I graduated from Saint-Petersburg State University in 2021 achieving my Master's Degree in Applied Physics and Mathematics. 
 - While graduating I've finished "C# Programming for Unity Game Development Specialization" on Coursera building game prototypes and programming homework projects. (https://www.coursera.org/specializations/programming-unity-game-development)
