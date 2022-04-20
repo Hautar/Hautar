@@ -1,6 +1,6 @@
 - Hi, I’m Ratmir Aznabaev.
 - I’m interested in C# programming and Unity Game Development, Plasma Physics, Plasma Medicine, games and more.
-- I’m currently learning Unity3D and C# for game development
+- I’m currently expanding my knowledge in Unity3D and C#
 - Looking for a Unity Developer position.
 
 - I graduated from Saint-Petersburg State University in 2021 achieving Master's Degree in Applied Physics and Mathematics. 
