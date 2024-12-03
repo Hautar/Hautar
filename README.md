@@ -1,10 +1,15 @@
 - Hi, I’m Ratmir Aznabaev.
-- I’m interested in C# programming and Unity Game Development, Plasma Physics, Plasma Medicine, games and more.
-- I’m currently expanding my knowledge in Unity3D and C#
-- Looking for a Unity Developer position.
+- Middle+/Senior Unity Developer
 
-- I graduated from Saint-Petersburg State University in 2021 achieving Master's Degree in Applied Physics and Mathematics. 
-- While graduating I've finished "C# Programming for Unity Game Development Specialization" on Coursera building game prototypes and programming homework projects. (https://www.coursera.org/specializations/programming-unity-game-development).
+- Education
+- Bachelor/Master Degrees in Applied Physics and Mathematics at St. Petersburg University 2015-2021
+- Coursera https://www.coursera.org/account/accomplishments/specialization/certificate/RHL95RUFZKN6
+
+- 3+ years Unity Developer Job Experience:
+- It Alliance (September 2021 — July 2022).
+  - Applications for museum exhibits. (OpenXR, Vuforia, Strapi, Ad Hoc deploy for iOS)
+- Ciliz. July 2022 — November 2024. https://ciliz.com
+  - ECS DOTS, Vivox, Aws, Playfab, Ui, Dotween, Game mechanics, Sound/Animation integration etc.
 
 - 📫 Contact me:
 - Email: ratmiroko@gmail.com
