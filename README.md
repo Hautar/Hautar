@@ -1,7 +1,7 @@
-- Hi, I’m Ratmir Aznabaev.
-- Middle+/Senior Unity Developer
+Hi, I’m Ratmir Aznabaev.
+Middle+/Senior Unity Developer
 
-- Education
+Education:
 - Bachelor/Master Degrees in Applied Physics and Mathematics at St. Petersburg University 2015-2021
 - Coursera https://www.coursera.org/account/accomplishments/specialization/certificate/RHL95RUFZKN6
 
